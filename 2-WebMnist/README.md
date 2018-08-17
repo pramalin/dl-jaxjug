@@ -7,4 +7,4 @@ To run
 
 Open [http://localhot:9000] (http://localhot:9000)
 
-[Live demo] (http://webmnist.heraokuapp.com)
+[Live demo] (http://webmnist.herokuapp.com)
